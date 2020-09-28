@@ -1,2 +1,2 @@
 # gophercises
-golang courses: https://gophercises.com/#signup
+golang course: https://github.com/gophercises
